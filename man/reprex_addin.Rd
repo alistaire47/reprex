@@ -21,7 +21,7 @@ currently just an alias for "gh"!
 }}
 }
 \description{
-\code{reprex_addin()} opens an \href{https://shiny.rstudio.com/articles/gadgets.html}{RStudio gadget} and
+\code{reprex_addin()} opens an \href{https://shiny.rstudio.com/articles/gadgets.html}{RStudiogadget} and
 \href{http://rstudio.github.io/rstudioaddins/}{addin} that allows you to say
 where the reprex source is (clipboard? current selection? active file?
 other file?) and to control a few other arguments. Appears as "Render
@@ -30,5 +30,5 @@ reprex" in the RStudio Addins menu.
 \code{reprex_selection()} is an
 \href{http://rstudio.github.io/rstudioaddins/}{addin} that reprexes the current
 selection, optionally customised by options. Appears as "Reprex selection"
-in the RStudio Addins menu. Heavy users might want to \href{https://support.rstudio.com/hc/en-us/articles/206382178-Customizing-Keyboard-Shortcuts}{create a keyboard shortcut}.
+in the RStudio Addins menu. Heavy users might want to \href{https://support.rstudio.com/hc/en-us/articles/206382178-Customizing-Keyboard-Shortcuts}{create a keyboardshortcut}.
 }
